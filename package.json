@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@nuxt/http": "latest",
+    "mysql2": "^2.2.5",
     "nuxt": "latest"
   },
   "devDependencies": {
